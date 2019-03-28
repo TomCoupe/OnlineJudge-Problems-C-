@@ -1,5 +1,5 @@
-#***Problem 1013***
-
+# ***Problem 1013*** #
+ 
 **Title:** Record marks
 
 **Description**
@@ -24,7 +24,7 @@ Guidelines”).
 Remember that there are different ways of obtaining input. For this assignment "scanf" might be convenient,
 but make sure to use the correct syntax (it requires a 'pointer' as a second argument.)
 
-#***Problem 1014***
+# ***Problem 1014*** #
 
 **Title:** Area and circumference of circles
 
@@ -56,7 +56,7 @@ The result should be in 3 digits precision.
 43.960
 
 
-#***Problem 1015***
+# ***Problem 1015*** #
 
 **Title:** ASCII code
 
@@ -86,7 +86,7 @@ Hello, world!
 H's ASCII code is 72. Blank space's ASCII code is 32.
 
 
-#***Problem 1025***
+# ***Problem 1025*** #
 
 **Title:** Largest common factor and smallest common multiple
 
@@ -103,7 +103,7 @@ Input two positive integers. Compute their largest common factor and smallest co
 1 6
 
 
-#***Problem 1030***
+# ***Problem 1030*** #
 
 **Title:** Precise division
 
